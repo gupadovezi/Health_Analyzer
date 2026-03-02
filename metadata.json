@@ -1,0 +1,5 @@
+{
+  "name": "Health Econ Analyzer",
+  "description": "A health economics dashboard for calculating and analyzing QALYs, DALYs, and ICER for medical interventions.",
+  "requestFramePermissions": []
+}
